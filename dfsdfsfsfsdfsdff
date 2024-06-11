@@ -1,0 +1,17 @@
+[33mcommit 06a86e018f2a137dd809c3c10a66a8cc96f2dea2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vinay-3333 <email@vagrawal032.com>
+Date:   Tue Jun 11 18:25:40 2024 +0530
+
+    edit abc file more
+
+[1mdiff --git a/abc.txt b/abc.txt[m
+[1mindex a61873e..f6655cf 100644[m
+[1m--- a/abc.txt[m
+[1m+++ b/abc.txt[m
+[36m@@ -1,2 +1,5 @@[m
+ hey my name is vinay agrawal [m
+ i am doing mca[m
+[32m+[m
+[32m+[m
+[32m+[m[32mright now i am searching job in field on data science and machine learning and deep learning[m
+\ No newline at end of file[m
